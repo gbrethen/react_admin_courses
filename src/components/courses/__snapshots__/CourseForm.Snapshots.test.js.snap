@@ -65,6 +65,11 @@ exports[`sets submit button label 'Save' when saving is false 1`] = `
         >
           Dan Wahlin
         </option>
+        <option
+          value={4}
+        >
+          Greg Brethen
+        </option>
       </select>
     </div>
   </div>
@@ -162,6 +167,11 @@ exports[`sets submit button label 'Saving...' when saving is true 1`] = `
           value={3}
         >
           Dan Wahlin
+        </option>
+        <option
+          value={4}
+        >
+          Greg Brethen
         </option>
       </select>
     </div>

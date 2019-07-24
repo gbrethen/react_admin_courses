@@ -74,7 +74,8 @@ const courses = [
 const authors = [
   { id: 1, name: "Cory House" },
   { id: 2, name: "Scott Allen" },
-  { id: 3, name: "Dan Wahlin" }
+  { id: 3, name: "Dan Wahlin" },
+  { id: 4, name: "Greg Brethen" }
 ];
 
 const newCourse = {
